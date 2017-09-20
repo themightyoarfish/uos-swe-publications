@@ -20,6 +20,7 @@ Korrekturen
 * `@article` mit `year`-Feld versehen 
     - `Arne_Noyer.bib`
 * `\&` durch `&` ersetzen (Muss in bibtex nicht escaped werden)
+* Tilde `El~Kharbili` entfernt (?)
 
 Versch&ouml;nerungen
 ====================
