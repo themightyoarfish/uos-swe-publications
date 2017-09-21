@@ -21,6 +21,7 @@ Korrekturen
     - `Arne_Noyer.bib`
 * `\&` durch `&` ersetzen (Muss in bibtex nicht escaped werden)
 * Tilde `El~Kharbili` entfernt (?)
+* Umlaut in `Pulvermueller` &uml;berall eintragen
 
 Versch&ouml;nerungen
 ====================
