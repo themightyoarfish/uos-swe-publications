@@ -21,7 +21,11 @@ Korrekturen
     - `Arne_Noyer.bib`
 * `\&` durch `&` ersetzen (Muss in bibtex nicht escaped werden)
 * Tilde `El~Kharbili` entfernt (?)
-* Umlaut in `Pulvermueller` &uml;berall eintragen
+* Umlaut in `Pulvermueller`, `Wuebbelmann`und `Kuemper` &uml;berall eintragen
+* `Breuning` durch `Breunig` ersetzen (`Mathias_Menninghaus.bib`)
+* Gesellschaft f&uml;r Informatik tauch einmal als Editor auf, daher als Literal
+  so lassen und nicht als Namen interpretieren (`Elke_Pulvermueller.bib`).
+* `Klausthal Theo`: Komma fehlte (`Jutta_Goers.bib`)
 
 Versch&ouml;nerungen
 ====================
