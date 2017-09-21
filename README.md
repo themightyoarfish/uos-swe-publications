@@ -26,6 +26,9 @@ Korrekturen
 * Gesellschaft f&uml;r Informatik tauch einmal als Editor auf, daher als Literal
   so lassen und nicht als Namen interpretieren (`Elke_Pulvermueller.bib`).
 * `Klausthal Theo`: Komma fehlte (`Jutta_Goers.bib`)
+* Escapes in `\_` entfernt, scheint sch&auml;dlich zu sein
+  (`Elke_Pulvermueller.bib`)
+* Leere Felder entfernen (`Elke_Pulvermueller.bib`)
 
 Versch&ouml;nerungen
 ====================
