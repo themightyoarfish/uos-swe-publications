@@ -29,6 +29,7 @@ Korrekturen
 * Escapes in `\_` entfernt, scheint sch&auml;dlich zu sein
   (`Elke_Pulvermueller.bib`)
 * Leere Felder entfernen (`Elke_Pulvermueller.bib`)
+* Kurzform von Monaten (`jul`, `oct`, ...) ausschreiben
 
 Versch&ouml;nerungen
 ====================
